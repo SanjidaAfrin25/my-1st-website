@@ -1,0 +1,25 @@
+
+h1{
+    color:#2c1481e0;
+    background-color: rgb(216, 255, 73);
+    height: 50px;}
+    img{
+        width: 100%;
+    }
+    #mou{
+        font-size: 50px;
+    }
+    .mim{
+        color: rgb(241, 61, 16);
+        font-size: 30px;
+        border: 20px green solid;
+        height: 200px;
+        width: 10%;
+        float: left;
+        border-radius: 30px;
+        margin :40px;
+        padding:40px;
+    }
+.abc{
+    color: slateblue;
+}
